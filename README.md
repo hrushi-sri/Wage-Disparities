@@ -12,7 +12,7 @@ Data Description:
 
 Variables
 
-'husage'   
+husage 
 
 husunion      
 
