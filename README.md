@@ -10,84 +10,52 @@ Understanding the implications of the non-wife’s income on family financial dy
 
 Data Description:
 
-Variable      Description
+Variables
 
-'husage'      avg age of husband
+'husage'   
 
-husunion      husband in union
+husunion      
 
-husearns      avg husband earnings
+husearns     
 
-huseduc        avg husband education
+huseduc        
 
-husblck        husbands who are black
+husblck        
 
-hushisp        husbands who are hispanic
+hushisp      
 
-hushrs         husband work hour per week
+hushrs        
 
-kidge6         kids under six in household
+kidge6        
 
-earns          avg wife’s earnings
+earns        
 
-age            avg age of wife
+age          
 
-Black          wife’s who are black
+Black         
 
-educ           avg wife’s age
+educ          
 
-hispanic      wife’s who are hispanic
+hispanic    
 
-union          wife in union
+union         
 
-faminc          avg family income
+faminc         
 
-husexp 				avg husband experience
-5634
-23.31
-0.00
-72.00
+husexp 		
+
 exper
-wife’s experience
-5634
-20.44
-0.00
-52.00
+
 kidlt6
-kids under 6
-5634
-0.2794
-0.0000
-1.0000
+
 hours
-avg hrs worked per week
-5634
-20.72
-0.00
-120.00
+
 expersq
-avg experience squared
-5634
-527
-0
-2704
+
 nwifeinc
-avg non-wife income
-5634
-30.27
-0.00
-112.50
+
 inlf
-individuals in labor force
-5634
-0.5832
-0.0000
-1.0000
+
 hrwage
-avg hourly wage
-5634
-10.3672
-0.0333
-200.0000
+
 lwage
-log of avg hourly wage
