@@ -11,7 +11,7 @@ Understanding the implications of the non-wife’s income on family financial dy
 Data Description:
 
 Variable      Description
-husage        avg age of husband
+'husage'      avg age of husband
 
 husunion      husband in union
 
@@ -40,12 +40,8 @@ hispanic      wife’s who are hispanic
 union          wife in union
 
 faminc          avg family income
-5634
-40993
-0
-112500
-husexp
-avg husband experience
+
+husexp 				avg husband experience
 5634
 23.31
 0.00
