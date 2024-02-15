@@ -11,6 +11,7 @@ Understanding the implications of the non-wife’s income on family financial dy
 Data Description:
 
 Variable      Description
+
 'husage'      avg age of husband
 
 husunion      husband in union
